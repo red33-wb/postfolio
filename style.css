@@ -96,7 +96,7 @@
 
 
  .mobilemenu{
-    width: 30px;
+    width: 19px;
     height: 30px;
     background-color: #302f2f;
     position: relative;
@@ -178,6 +178,7 @@
     background-color: rgb(255, 255, 255) ;
     margin-top:13px ;
     position: absolute;
+    margin-top:9px;
  }
 
  .arrow3{
